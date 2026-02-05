@@ -45,5 +45,3 @@ The dataset includes:
 - Comparative charts across countries
 - Volatility patterns by year
 
-
-## Repository Structure
